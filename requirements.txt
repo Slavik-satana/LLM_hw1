@@ -1,0 +1,8 @@
+css
+numpy
+pandas
+fastapi
+uvicorn[standard]
+sentence-transformers
+scikit-learn
+jinja2
